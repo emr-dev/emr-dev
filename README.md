@@ -4,8 +4,5 @@
 - 🍓 I'm also a freelancer.
 - 📫 How to reach me:
       Email - emrdev@outlook.com
- 
-
-<img src="https://octodex.github.com/images/yaktocat.png" width="400" />
 
  
